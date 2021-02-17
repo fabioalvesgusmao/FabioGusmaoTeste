@@ -9,8 +9,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FabioGusmao.Application", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FabioGusmao.DataMock", "FabioGusmao.DataMock\FabioGusmao.DataMock.csproj", "{1CB0D382-3BD4-4A03-BEF3-A2707D046EB3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FabioGusmao.Tests", "FabioGusmao.Tests\FabioGusmao.Tests.csproj", "{740040D1-A13C-4A77-B066-CF2B4F2CB4B5}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FabioGusmao.Api", "FabioGusmao.Api\FabioGusmao.Api.csproj", "{34EBC3E3-08A4-4B31-A095-C8F38120D2AA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FabioGusmao.Ui", "FabioGusmao.Ui\FabioGusmao.Ui.csproj", "{B2A6FEE5-0432-4B85-9F3D-E42B366B59EB}"
@@ -35,10 +33,6 @@ Global
 		{1CB0D382-3BD4-4A03-BEF3-A2707D046EB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1CB0D382-3BD4-4A03-BEF3-A2707D046EB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1CB0D382-3BD4-4A03-BEF3-A2707D046EB3}.Release|Any CPU.Build.0 = Release|Any CPU
-		{740040D1-A13C-4A77-B066-CF2B4F2CB4B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{740040D1-A13C-4A77-B066-CF2B4F2CB4B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{740040D1-A13C-4A77-B066-CF2B4F2CB4B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{740040D1-A13C-4A77-B066-CF2B4F2CB4B5}.Release|Any CPU.Build.0 = Release|Any CPU
 		{34EBC3E3-08A4-4B31-A095-C8F38120D2AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{34EBC3E3-08A4-4B31-A095-C8F38120D2AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{34EBC3E3-08A4-4B31-A095-C8F38120D2AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
