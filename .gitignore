@@ -3,3 +3,17 @@
 ################################################################################
 
 /FabioGusmao.Api/bin
+/FabioGusmao.Api/Logs
+/FabioGusmao.Api/obj/Debug
+/FabioGusmao.Application/bin/Debug
+/FabioGusmao.Application/obj/Debug
+/FabioGusmao.DataMock/bin/Debug
+/FabioGusmao.DataMock/obj/Debug
+/FabioGusmao.Domain/bin/Debug
+/FabioGusmao.Domain/obj/Debug
+/FabioGusmao.Infra/bin/Debug
+/FabioGusmao.Infra/obj/Debug
+/FabioGusmao.Tests/bin/Debug
+/FabioGusmao.Tests/obj/Debug
+/FabioGusmao.Ui/bin/Debug
+/FabioGusmao.Ui/obj/Debug
