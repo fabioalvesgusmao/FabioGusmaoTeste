@@ -39,13 +39,13 @@ namespace FabioGusmao.Ui
             this.Conta = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.panel1 = new System.Windows.Forms.Panel();
             this.groupBoxDownload = new System.Windows.Forms.GroupBox();
+            this.radioButtonPdf = new System.Windows.Forms.RadioButton();
+            this.radioButtonExcel = new System.Windows.Forms.RadioButton();
+            this.radioButtonCsv = new System.Windows.Forms.RadioButton();
             this.buttonDownload = new System.Windows.Forms.Button();
             this.groupBoxStockOrders = new System.Windows.Forms.GroupBox();
-            this.comboBoxGroup = new System.Windows.Forms.ComboBox();
             this.buttonSearch = new System.Windows.Forms.Button();
-            this.radioButtonCsv = new System.Windows.Forms.RadioButton();
-            this.radioButtonExcel = new System.Windows.Forms.RadioButton();
-            this.radioButtonPdf = new System.Windows.Forms.RadioButton();
+            this.comboBoxGroup = new System.Windows.Forms.ComboBox();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridViewStockOrders)).BeginInit();
             this.panel1.SuspendLayout();
             this.groupBoxDownload.SuspendLayout();
@@ -138,6 +138,39 @@ namespace FabioGusmao.Ui
             this.groupBoxDownload.TabStop = false;
             this.groupBoxDownload.Text = "Download";
             // 
+            // radioButtonPdf
+            // 
+            this.radioButtonPdf.AutoSize = true;
+            this.radioButtonPdf.Enabled = false;
+            this.radioButtonPdf.Location = new System.Drawing.Point(116, 18);
+            this.radioButtonPdf.Name = "radioButtonPdf";
+            this.radioButtonPdf.Size = new System.Drawing.Size(46, 17);
+            this.radioButtonPdf.TabIndex = 3;
+            this.radioButtonPdf.Text = "PDF";
+            this.radioButtonPdf.UseVisualStyleBackColor = true;
+            // 
+            // radioButtonExcel
+            // 
+            this.radioButtonExcel.AutoSize = true;
+            this.radioButtonExcel.Location = new System.Drawing.Point(59, 18);
+            this.radioButtonExcel.Name = "radioButtonExcel";
+            this.radioButtonExcel.Size = new System.Drawing.Size(51, 17);
+            this.radioButtonExcel.TabIndex = 2;
+            this.radioButtonExcel.Text = "Excel";
+            this.radioButtonExcel.UseVisualStyleBackColor = true;
+            // 
+            // radioButtonCsv
+            // 
+            this.radioButtonCsv.AutoSize = true;
+            this.radioButtonCsv.Checked = true;
+            this.radioButtonCsv.Location = new System.Drawing.Point(7, 18);
+            this.radioButtonCsv.Name = "radioButtonCsv";
+            this.radioButtonCsv.Size = new System.Drawing.Size(46, 17);
+            this.radioButtonCsv.TabIndex = 1;
+            this.radioButtonCsv.TabStop = true;
+            this.radioButtonCsv.Text = "CSV";
+            this.radioButtonCsv.UseVisualStyleBackColor = true;
+            // 
             // buttonDownload
             // 
             this.buttonDownload.Location = new System.Drawing.Point(181, 15);
@@ -159,6 +192,16 @@ namespace FabioGusmao.Ui
             this.groupBoxStockOrders.TabStop = false;
             this.groupBoxStockOrders.Text = "Agrupamento";
             // 
+            // buttonSearch
+            // 
+            this.buttonSearch.Location = new System.Drawing.Point(135, 20);
+            this.buttonSearch.Name = "buttonSearch";
+            this.buttonSearch.Size = new System.Drawing.Size(75, 23);
+            this.buttonSearch.TabIndex = 1;
+            this.buttonSearch.Text = "Buscar";
+            this.buttonSearch.UseVisualStyleBackColor = true;
+            this.buttonSearch.Click += new System.EventHandler(this.buttonSearch_Click);
+            // 
             // comboBoxGroup
             // 
             this.comboBoxGroup.FormattingEnabled = true;
@@ -173,48 +216,6 @@ namespace FabioGusmao.Ui
             this.comboBoxGroup.Size = new System.Drawing.Size(121, 21);
             this.comboBoxGroup.TabIndex = 0;
             this.comboBoxGroup.SelectedIndexChanged += new System.EventHandler(this.comboBoxGroup_SelectedIndexChanged);
-            // 
-            // buttonSearch
-            // 
-            this.buttonSearch.Location = new System.Drawing.Point(135, 20);
-            this.buttonSearch.Name = "buttonSearch";
-            this.buttonSearch.Size = new System.Drawing.Size(75, 23);
-            this.buttonSearch.TabIndex = 1;
-            this.buttonSearch.Text = "Buscar";
-            this.buttonSearch.UseVisualStyleBackColor = true;
-            this.buttonSearch.Click += new System.EventHandler(this.buttonSearch_Click);
-            // 
-            // radioButtonCsv
-            // 
-            this.radioButtonCsv.AutoSize = true;
-            this.radioButtonCsv.Checked = true;
-            this.radioButtonCsv.Location = new System.Drawing.Point(7, 18);
-            this.radioButtonCsv.Name = "radioButtonCsv";
-            this.radioButtonCsv.Size = new System.Drawing.Size(46, 17);
-            this.radioButtonCsv.TabIndex = 1;
-            this.radioButtonCsv.TabStop = true;
-            this.radioButtonCsv.Text = "CSV";
-            this.radioButtonCsv.UseVisualStyleBackColor = true;
-            // 
-            // radioButtonExcel
-            // 
-            this.radioButtonExcel.AutoSize = true;
-            this.radioButtonExcel.Location = new System.Drawing.Point(59, 18);
-            this.radioButtonExcel.Name = "radioButtonExcel";
-            this.radioButtonExcel.Size = new System.Drawing.Size(51, 17);
-            this.radioButtonExcel.TabIndex = 2;
-            this.radioButtonExcel.Text = "Excel";
-            this.radioButtonExcel.UseVisualStyleBackColor = true;
-            // 
-            // radioButtonPdf
-            // 
-            this.radioButtonPdf.AutoSize = true;
-            this.radioButtonPdf.Location = new System.Drawing.Point(116, 18);
-            this.radioButtonPdf.Name = "radioButtonPdf";
-            this.radioButtonPdf.Size = new System.Drawing.Size(46, 17);
-            this.radioButtonPdf.TabIndex = 3;
-            this.radioButtonPdf.Text = "PDF";
-            this.radioButtonPdf.UseVisualStyleBackColor = true;
             // 
             // Form
             // 
