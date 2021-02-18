@@ -1,0 +1,6 @@
+C:\Users\fabio\Downloads\ubs\testfinal\FabioGusmaoTeste\FabioGusmao.Infra\bin\Debug\FabioGusmao.Infra.dll
+C:\Users\fabio\Downloads\ubs\testfinal\FabioGusmaoTeste\FabioGusmao.Infra\bin\Debug\FabioGusmao.Infra.pdb
+C:\Users\fabio\Downloads\ubs\testfinal\FabioGusmaoTeste\FabioGusmao.Infra\obj\Debug\FabioGusmao.Infra.csprojAssemblyReference.cache
+C:\Users\fabio\Downloads\ubs\testfinal\FabioGusmaoTeste\FabioGusmao.Infra\obj\Debug\FabioGusmao.Infra.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Downloads\ubs\testfinal\FabioGusmaoTeste\FabioGusmao.Infra\obj\Debug\FabioGusmao.Infra.dll
+C:\Users\fabio\Downloads\ubs\testfinal\FabioGusmaoTeste\FabioGusmao.Infra\obj\Debug\FabioGusmao.Infra.pdb

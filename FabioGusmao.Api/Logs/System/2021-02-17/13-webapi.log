@@ -1,0 +1,18 @@
+2021-02-17 13:28:21.2051|TRACE|FabioGusmao.Application.Services.StockOrderService|Iniciando processo de consulta das ordens.
+2021-02-17 13:28:21.2372|TRACE|FabioGusmao.Application.Services.StockOrderService|Ordens não encontradas no cache.
+2021-02-17 13:28:21.3871|TRACE|FabioGusmao.Application.Services.StockOrderService|Consulta finalizada.
+2021-02-17 13:28:30.6558|TRACE|FabioGusmao.Application.Services.DownloadStockOrders|Iniciando processo de gerar arquivo para download.
+2021-02-17 13:28:30.6558|TRACE|FabioGusmao.Application.Services.StockOrderService|Iniciando processo de consulta das ordens.
+2021-02-17 13:28:30.6558|TRACE|FabioGusmao.Application.Services.StockOrderService|Ordens encontradas no cache.
+2021-02-17 13:28:30.6558|TRACE|FabioGusmao.Application.Services.StockOrderService|Consulta finalizada.
+2021-02-17 13:28:30.6558|TRACE|FabioGusmao.Application.Services.DownloadStockOrders|Iniciando tratamento arquivo CSV.
+2021-02-17 13:28:30.6558|TRACE|FabioGusmao.Application.Services.DownloadStockOrders|Finalizado processo de gerar arquivo para download
+2021-02-17 13:29:00.5664|TRACE|FabioGusmao.Application.Services.StockOrderService|Iniciando processo de consulta das ordens.
+2021-02-17 13:29:00.5977|TRACE|FabioGusmao.Application.Services.StockOrderService|Ordens não encontradas no cache.
+2021-02-17 13:29:00.6980|TRACE|FabioGusmao.Application.Services.StockOrderService|Consulta finalizada.
+2021-02-17 13:29:06.5412|TRACE|FabioGusmao.Application.Services.DownloadStockOrders|Iniciando processo de gerar arquivo para download.
+2021-02-17 13:29:06.5412|TRACE|FabioGusmao.Application.Services.StockOrderService|Iniciando processo de consulta das ordens.
+2021-02-17 13:29:06.5412|TRACE|FabioGusmao.Application.Services.StockOrderService|Ordens encontradas no cache.
+2021-02-17 13:29:06.5412|TRACE|FabioGusmao.Application.Services.StockOrderService|Consulta finalizada.
+2021-02-17 13:29:06.5412|TRACE|FabioGusmao.Application.Services.DownloadStockOrders|Iniciando tratamento arquivo EXCEL.
+2021-02-17 13:29:06.8578|TRACE|FabioGusmao.Application.Services.DownloadStockOrders|Finalizado processo de gerar arquivo para download

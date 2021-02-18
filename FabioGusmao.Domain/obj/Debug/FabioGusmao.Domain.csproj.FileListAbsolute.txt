@@ -1,0 +1,6 @@
+C:\Users\fabio\Downloads\ubs\testfinal\FabioGusmaoTeste\FabioGusmao.Domain\bin\Debug\FabioGusmao.Domain.dll
+C:\Users\fabio\Downloads\ubs\testfinal\FabioGusmaoTeste\FabioGusmao.Domain\bin\Debug\FabioGusmao.Domain.pdb
+C:\Users\fabio\Downloads\ubs\testfinal\FabioGusmaoTeste\FabioGusmao.Domain\obj\Debug\FabioGusmao.Domain.csprojAssemblyReference.cache
+C:\Users\fabio\Downloads\ubs\testfinal\FabioGusmaoTeste\FabioGusmao.Domain\obj\Debug\FabioGusmao.Domain.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Downloads\ubs\testfinal\FabioGusmaoTeste\FabioGusmao.Domain\obj\Debug\FabioGusmao.Domain.dll
+C:\Users\fabio\Downloads\ubs\testfinal\FabioGusmaoTeste\FabioGusmao.Domain\obj\Debug\FabioGusmao.Domain.pdb

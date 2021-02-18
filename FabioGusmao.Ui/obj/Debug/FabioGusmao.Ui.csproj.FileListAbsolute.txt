@@ -1,0 +1,15 @@
+C:\Users\fabio\Downloads\ubs\testfinal\FabioGusmaoTeste\FabioGusmao.Ui\bin\Debug\FabioGusmao.Ui.exe.config
+C:\Users\fabio\Downloads\ubs\testfinal\FabioGusmaoTeste\FabioGusmao.Ui\bin\Debug\FabioGusmao.Ui.exe
+C:\Users\fabio\Downloads\ubs\testfinal\FabioGusmaoTeste\FabioGusmao.Ui\bin\Debug\FabioGusmao.Ui.pdb
+C:\Users\fabio\Downloads\ubs\testfinal\FabioGusmaoTeste\FabioGusmao.Ui\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fabio\Downloads\ubs\testfinal\FabioGusmaoTeste\FabioGusmao.Ui\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\fabio\Downloads\ubs\testfinal\FabioGusmaoTeste\FabioGusmao.Ui\bin\Debug\Newtonsoft.Json.xml
+C:\Users\fabio\Downloads\ubs\testfinal\FabioGusmaoTeste\FabioGusmao.Ui\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\fabio\Downloads\ubs\testfinal\FabioGusmaoTeste\FabioGusmao.Ui\obj\Debug\FabioGusmao.Ui.csprojAssemblyReference.cache
+C:\Users\fabio\Downloads\ubs\testfinal\FabioGusmaoTeste\FabioGusmao.Ui\obj\Debug\FabioGusmao.Ui.Form.resources
+C:\Users\fabio\Downloads\ubs\testfinal\FabioGusmaoTeste\FabioGusmao.Ui\obj\Debug\FabioGusmao.Ui.Properties.Resources.resources
+C:\Users\fabio\Downloads\ubs\testfinal\FabioGusmaoTeste\FabioGusmao.Ui\obj\Debug\FabioGusmao.Ui.csproj.GenerateResource.cache
+C:\Users\fabio\Downloads\ubs\testfinal\FabioGusmaoTeste\FabioGusmao.Ui\obj\Debug\FabioGusmao.Ui.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Downloads\ubs\testfinal\FabioGusmaoTeste\FabioGusmao.Ui\obj\Debug\FabioGusmao.Ui.csproj.CopyComplete
+C:\Users\fabio\Downloads\ubs\testfinal\FabioGusmaoTeste\FabioGusmao.Ui\obj\Debug\FabioGusmao.Ui.exe
+C:\Users\fabio\Downloads\ubs\testfinal\FabioGusmaoTeste\FabioGusmao.Ui\obj\Debug\FabioGusmao.Ui.pdb

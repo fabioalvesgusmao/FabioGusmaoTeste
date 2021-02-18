@@ -1,0 +1,11 @@
+C:\Users\fabio\Downloads\ubs\testfinal\FabioGusmaoTeste\FabioGusmao.DataMock\bin\Debug\FabioGusmao.DataMock.dll
+C:\Users\fabio\Downloads\ubs\testfinal\FabioGusmaoTeste\FabioGusmao.DataMock\bin\Debug\FabioGusmao.DataMock.pdb
+C:\Users\fabio\Downloads\ubs\testfinal\FabioGusmaoTeste\FabioGusmao.DataMock\bin\Debug\FabioGusmao.Domain.dll
+C:\Users\fabio\Downloads\ubs\testfinal\FabioGusmaoTeste\FabioGusmao.DataMock\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fabio\Downloads\ubs\testfinal\FabioGusmaoTeste\FabioGusmao.DataMock\bin\Debug\FabioGusmao.Domain.pdb
+C:\Users\fabio\Downloads\ubs\testfinal\FabioGusmaoTeste\FabioGusmao.DataMock\bin\Debug\Newtonsoft.Json.xml
+C:\Users\fabio\Downloads\ubs\testfinal\FabioGusmaoTeste\FabioGusmao.DataMock\obj\Debug\FabioGusmao.DataMock.csprojAssemblyReference.cache
+C:\Users\fabio\Downloads\ubs\testfinal\FabioGusmaoTeste\FabioGusmao.DataMock\obj\Debug\FabioGusmao.DataMock.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Downloads\ubs\testfinal\FabioGusmaoTeste\FabioGusmao.DataMock\obj\Debug\FabioGusmao.DataMock.csproj.CopyComplete
+C:\Users\fabio\Downloads\ubs\testfinal\FabioGusmaoTeste\FabioGusmao.DataMock\obj\Debug\FabioGusmao.DataMock.dll
+C:\Users\fabio\Downloads\ubs\testfinal\FabioGusmaoTeste\FabioGusmao.DataMock\obj\Debug\FabioGusmao.DataMock.pdb
